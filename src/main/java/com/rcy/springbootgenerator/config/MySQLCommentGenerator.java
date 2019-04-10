@@ -22,7 +22,6 @@ import java.util.Properties;
  * @Description:
  * @Email: 18600820674@163.com
  */
-@Configuration
 public class MySQLCommentGenerator extends EmptyCommentGenerator {
     private Properties properties;
 
